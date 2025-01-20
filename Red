@@ -6,7 +6,7 @@ local frame = Instance.new("Frame")
 -- Cài đặt GUI
 gui.Parent = player:WaitForChild("PlayerGui")
 gui.Name = "BlackScreenGui"
-gui.DisplayOrder = 999 -- Ưu tiên hiển thị cao nhất
+gui.DisplayOrder = 888 -- Ưu tiên hiển thị cao nhất
 gui.IgnoreGuiInset = true -- Che toàn bộ màn hình, kể cả các khu vực giao diện mặc định của Roblox
 
 -- Cài đặt Frame
